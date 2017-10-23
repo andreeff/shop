@@ -1,0 +1,99 @@
+.joomimg_clr{
+  clear:both;
+}
+.joomimg_row{
+  overflow:hidden;
+  padding:4px 0;
+}
+.joomimg_row a{
+	display:block;
+	background:url(bg.png) no-repeat;
+	height:60px;
+	width:60px;
+	padding-left:3px;
+	padding-top:2px;
+	overflow:hidden;
+}
+.joomimg_row ul{
+  padding-left:0;
+  margin-left:0;
+}
+.joomimg_row ul li{
+  list-style:none;
+  background:none;
+}
+.module_randomimage img{
+	border:solid 1px #c8c8c8;
+	padding:3px;
+}
+#jf-bottom .moduletable_bottom {
+	background: url(jf-bottom.png) no-repeat;
+	height: 184px;
+	width: 952px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#jf-bottom .moduletable_bottom h3 {
+	font-size: 16px;
+	line-height: 28px;
+	padding: 20px 0 0 20px;
+}
+
+.modjoomimg img {
+	background-color: #fff;
+	border: 1px solid #c8c8c8;
+	padding: 3px;
+	height: 74px;
+	width: 100px;
+	margin-right: 20px;
+}
+
+.jcarousel-container {
+	padding: 0 40px;
+}
+
+.jcarousel-clip {
+	height: 82px;
+	width: 880px;
+	overflow: hidden;
+}
+
+.carousel {
+	float: left;
+	height: 82px;
+	overflow: hidden;
+	margin: 0;
+}
+
+.modjoomimg li {
+	float: left;
+	list-style: none;
+	height: 82px;
+	width: 128px;
+}
+
+.jcarousel-next-horizontal {
+    background: url(arrow-right.png) no-repeat;
+    cursor: pointer;
+    height: 16px;
+    position: absolute;
+    right: -14px;
+    top: 35px;
+    width: 34px;
+}
+
+.jcarousel-prev-horizontal {
+    background: url(arrow-left.png) no-repeat;
+    cursor: pointer;
+    height: 16px;
+    left: -14px;
+    position: absolute;
+    top: 35px;
+    width: 34px;
+}
+
+.jcarousel-item a:hover img {
+	background-color: #fc930a;
+	border: 1px solid #ffbd68;
+}

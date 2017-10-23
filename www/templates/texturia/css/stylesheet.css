@@ -1,0 +1,21 @@
+/*------------------------------------------------------------------------
+# JF TEXTURIA - JOOMFREAK.COM JOOMLA 1.5.0 TEMPLATE 10-2011
+# ------------------------------------------------------------------------
+# COPYRIGHT: (C) 2011 JOOMFREAK.COM / KREATIF MULTIMEDIA GMBH
+# LICENSE: Creative Commons Attribution
+# AUTHOR: JOOMFREAK.COM
+# WEBSITE:  http://www.joomfreak.com - http://www.kreatif-multimedia.com
+# EMAIL:  info@joomfreak.com
+-------------------------------------------------------------------------*/
+@font-face {
+    font-family: 'ArchitectsDaughterRegular';
+    src: url('ArchitectsDaughter-webfont.eot');
+    src: url('ArchitectsDaughter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ArchitectsDaughter-webfont.woff') format('woff'),
+         url('ArchitectsDaughter-webfont.ttf') format('truetype'),
+         url('ArchitectsDaughter-webfont.svg#ArchitectsDaughterRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

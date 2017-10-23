@@ -1,0 +1,32 @@
+/*------------------------------------------------------------------------
+# JF TEXTURIA - JOOMFREAK.COM JOOMLA 1.7.0 TEMPLATE 12-2011
+# ------------------------------------------------------------------------
+# COPYRIGHT: (C) 2011 JOOMFREAK.COM / KREATIF MULTIMEDIA GMBH
+# LICENSE: Creative Commons Attribution
+# AUTHOR: JOOMFREAK.COM
+# WEBSITE:  http://www.joomfreak.com - http://www.kreatif-multimedia.com
+# EMAIL:  info@joomfreak.com
+-------------------------------------------------------------------------*/
+.pagination{float:right;}
+.pagination span,.pagination a{
+	display:block;
+	float:left;
+}
+.item_lead p img,.contentpaneopen p img {
+	display:block;
+	clear:both;
+}
+#jf-footermenu ul li,#jf-user1 ul li .jf-date,#jf-topright ul li{
+	display:inline;
+	zoom:1;
+}
+#jf-topright ul li span{
+	display:block;
+}
+div.search .button{
+	position:relative;
+	top:-5px;
+	left:-2px;
+	font-size:0px;
+	line-height:0px;
+}
